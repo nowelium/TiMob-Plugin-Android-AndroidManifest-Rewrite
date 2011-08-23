@@ -1,0 +1,15 @@
+#
+# this is your plugin manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My Plugin
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2010 by Your Company
+
+
+# these should not be edited
+pluginid: com.github.nowelium.titanium.plugin.androidmanifest
+guid: 17120bbc-fa6e-4e41-94cd-0329f5e02377
+minsdk: 1.7.1
